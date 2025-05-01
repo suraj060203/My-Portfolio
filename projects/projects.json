@@ -1,0 +1,42 @@
+[
+  {
+    "name": "HealthConnect",
+    "desc": "Health-Connect: Hospital website with management system for nurse, doctor, admin workflows, patient records, appointments.",
+    "image": "healthconnect",
+    "category": "mern",
+    "links": {
+      "view": "https://hm-system.netlify.app/",
+      "code": "https://github.com/suraj060203/HealthConnect"
+    }
+  },
+  {
+    "name": "FruitVisionAI",
+    "desc": "E-commerce solution using advanced imaging and machine learning to automate product quality, quantity, freshness, type, and expiry date verification.",
+    "image": "fruitvisionai",
+    "category": "lamp",
+    "links": {
+      "view": "https://fruitvisionai.netlify.app/",
+      "code": "https://github.com/suraj060203/HackBMU-7.0"
+    }
+  },
+  {
+    "name": "VytoFLow Tech",
+    "desc": "VytoFlow Tech Community at ITS Engineering College developed a web app under the UI/UX design head's leadership, now a recognized startup.",
+    "image": "vytoflow",
+    "category": "mern",
+    "links": {
+      "view": "https://vytoflow--tech.web.app/",
+      "code": "https://vytoflow--tech.web.app/"
+    }
+  },
+  {
+    "name": "My Portfolio",
+    "desc": "Personal Portfolio Website. Don't Need Much Info About It, Just Scroll Down. You're Here Only!",
+    "image": "portfolio",
+    "category": "basicweb",
+    "links": {
+      "view": "https://suraj0603.netlify.app/projects/#",
+      "code": "https://github.com/suraj060203/My-Portfolio"
+    }
+  }
+]
